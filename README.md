@@ -56,7 +56,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miankhan-ai&show_icons=true&locale=en&theme=tokyonight" alt="miankhan-ai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miankhan-ai&theme=tokyonight" alt="miankhan-ai" /></p>
+
 
 ## 🤝 Connect With Me
 
