@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 🔭 **Currently Working:** Assistant Machine Learning Engineer at **Xeven Solutions, Lahore**
+- 🔭 **Currently Working:** Freelance Machine Learning Engineer at **Upwork**
 - 🎓 **Education:** BS Artificial Intelligence - COMSATS University Islamabad, Attock Campus
 - 🤖 **Specializing in:** AI Agents, LangChain/LangGraph, n8n, Zapier, Make, RAG Systems, and LLM Integration
 - 👨‍💻 **Portfolio:** [View All Projects](https://miankhan.github.io/portfolio/)
