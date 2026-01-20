@@ -37,7 +37,7 @@
 - **[AI Agent for The Sweet Tooth](https://thesweettooth.com/)** - Comprehensive AI agents at the backend managing company's operations, information, and automated Shopify operations and social marketing
 
 ### 🎓 **Educational AI Platforms**
-- **[AI Healthcare Medical Chatbot](https://bible-gpt-xeven.streamlit.app/)** - Intelligent chatbot providing real-time medical guidance and personalized health support
+- **[AI Healthcare Medical Chatbot](https://medical-chatbot-lemon-nu.vercel.app/)** - Intelligent chatbot providing real-time medical guidance and personalized health support
 - **[AI-Driven AR Agent AR Mobile App](https://apk.com/)** - Immersive AR app with voice, hand gesture, and emotion-driven storytelling interactions
 
 ### 📚 **Specialized Content AI**
