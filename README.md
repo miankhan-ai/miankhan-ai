@@ -8,9 +8,6 @@
 - 🔭 **Currently Working:** Freelance AI/ML Engineer at **Upwork**
 - 🎓 **Education:** BS Artificial Intelligence - COMSATS University Islamabad, Attock Campus
 - 🤖 **Specializing in:** AI Agents, LangChain/LangGraph, n8n, Zapier, Make, RAG Systems, and LLM Integration
-- 👨‍💻 **Portfolio:** [View All Projects](https://miankhan.github.io/portfolio/)
-- 📫 **Contact:** miankhan.dev@gmail.com | (+92) 3105436430
-- ⚡ **Philosophy:** Learn any skill on the fly within given timeframes for specific project requirements
 
 ## 🛠️ Technical Skills
 
@@ -55,18 +52,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miankhan-ai&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="miankhan-ai" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miankhan-ai&show_icons=true&locale=en&theme=tokyonight" alt="miankhan-ai" /></p>
-
-
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/miankhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miankhan" height="30" width="40" /></a>
-<a href="https://x.com/@mian_khan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mian_khan_" height="30" width="40" /></a>
-<a href="https://kaggle.com/miankhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arcodes" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@miankhann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@miankhann" height="30" width="40" /></a>
-<a href="https://instagram.com/miankhan.mk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miankhan.mk" height="30" width="40" /></a>
-</p>
 
 ## 🧰 Technologies & Tools
 
